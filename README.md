@@ -23,7 +23,7 @@
 ### :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davin0706@gmail.com)](mailto:davin0706@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:davinkim0706@naver.com)](mailto:davinkim0706@naver.com)
-[![Blog Badge](https://img.shields.io/badge/-Blog%20-black?style=flat-square&logo=github&link=velog.io/@davin0706/posts)](https://https://velog.io/@davin0706/posts)
+[![Blog Badge](https://img.shields.io/badge/-Blog%20-black?style=flat-square&logo=github&link=velog.io/@davin0706/posts)](https://velog.io/@davin0706/posts)
 <!--
 **tealight03/tealight03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
